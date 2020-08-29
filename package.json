@@ -1,0 +1,22 @@
+{
+  "name": "redis-pub-sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkan1/node-redis-pub-sub.git"
+  },
+  "author": "Jkan1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkan1/node-redis-pub-sub/issues"
+  },
+  "homepage": "https://github.com/Jkan1/node-redis-pub-sub#readme",
+  "description": "",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
